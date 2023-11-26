@@ -1,0 +1,9 @@
+node_modules
+dist/mix-manifest.json
+webpack.mix.js
+tsconfig.json
+package.json
+package-lock.json
+AI1-LE-grN-nazwisko-imie.docx
+~$1-LE-grN-nazwisko-imie.docx
+.DS_Store
